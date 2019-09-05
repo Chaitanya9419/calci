@@ -1,0 +1,11 @@
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\obj\Debug\netcoreapp2.1\calc.csprojAssemblyReference.cache
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\obj\Debug\netcoreapp2.1\calc.csproj.CoreCompileInputs.cache
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\obj\Debug\netcoreapp2.1\calc.AssemblyInfoInputs.cache
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\obj\Debug\netcoreapp2.1\calc.AssemblyInfo.cs
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\bin\Debug\netcoreapp2.1\calc.deps.json
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\bin\Debug\netcoreapp2.1\calc.runtimeconfig.json
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\bin\Debug\netcoreapp2.1\calc.runtimeconfig.dev.json
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\bin\Debug\netcoreapp2.1\calc.dll
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\bin\Debug\netcoreapp2.1\calc.pdb
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\obj\Debug\netcoreapp2.1\calc.dll
+C:\Users\Chaitanya Krishna\source\repos\calc\calc\obj\Debug\netcoreapp2.1\calc.pdb
