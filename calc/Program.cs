@@ -77,7 +77,7 @@ namespace calc
             }
             else
             {
-                Console.ReadKey();            }
+                 Console.ReadKey();            }
            
         }
     }
