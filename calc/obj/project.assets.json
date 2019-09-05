@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chaitanya Krishna\\source\\repos\\calc\\calc\\calc.csproj",
+      "projectUniqueName": "C:\\Users\\Chaitanya Krishna\\Source\\Repos\\Chaitanya9419\\calci\\calc\\calc.csproj",
       "projectName": "calc",
-      "projectPath": "C:\\Users\\Chaitanya Krishna\\source\\repos\\calc\\calc\\calc.csproj",
+      "projectPath": "C:\\Users\\Chaitanya Krishna\\Source\\Repos\\Chaitanya9419\\calci\\calc\\calc.csproj",
       "packagesPath": "C:\\Users\\Chaitanya Krishna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chaitanya Krishna\\source\\repos\\calc\\calc\\obj\\",
+      "outputPath": "C:\\Users\\Chaitanya Krishna\\Source\\Repos\\Chaitanya9419\\calci\\calc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
