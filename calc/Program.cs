@@ -71,7 +71,7 @@ namespace calc
             string ans;
             Console.WriteLine("Want to continue:(y/n)");
             ans = Console.ReadLine();
-            if (ans == "y")
+            if (ans == "Y")
             {
                 goto label;
             }
