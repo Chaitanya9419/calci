@@ -69,7 +69,7 @@ namespace calc
                     break;
             }
             string ans;
-            Console.WriteLine("Want to continue:(y/n)");
+            Console.WriteLine("Want to continue:(Y/N)");
             ans = Console.ReadLine();
             if (ans == "Y")
             {
